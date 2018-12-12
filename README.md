@@ -3,6 +3,4 @@ Java - Spring boot web service
 
 ## Eclipse Che
 
-https://routeeka3uuqn-visualartsmina-che.8a09.starter-us-east-2.openshiftapps.com/students
-
-https://routeeka3uuqn-visualartsmina-che.8a09.starter-us-east-2.openshiftapps.com/studentId?id=1
+The project is configured for Eclipse Che
